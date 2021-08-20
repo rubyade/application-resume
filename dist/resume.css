@@ -14,7 +14,6 @@ ul {
   height: 130px;
   font-size: 16px;
   padding-right: 0px;
-  margin-top: 50px;
   margin-bottom: 0px;
   padding-left: 50px;
   padding-bottom: 0px;
@@ -60,6 +59,7 @@ hr {
 .skills {
   width: 480px;
   margin-top: 0px;
+  font-size: 30px;
 }
 
 table {
@@ -137,9 +137,9 @@ footer {
 
 .logo-img {
   max-width: 10rem;
+  margin-top: 10px;
 }
 
 .copyright a {
-  text-decoration: none;
   color: white;
 }
