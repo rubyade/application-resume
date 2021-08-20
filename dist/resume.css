@@ -150,10 +150,13 @@ tr:nth-child(even) {
 .referees {
   border: none;
   border-radius: 5px;
-  background-color: #dddddd;
+  background-color: rgb(48, 155, 197);
+  color: white;
   width: 400px;
   height: 30px;
   padding: 10px;
+  text-transform: capitalize;
+  font-weight: lighter;
 }
 
 footer {
