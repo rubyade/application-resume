@@ -30,7 +30,7 @@ ul li a {
 }
 
 #profile-pic {
-  max-width: 20rem;
+  max-width: 14rem;
   margin-left: 20px;
   border: solid 10px rgb(27, 170, 236);
 }
@@ -39,7 +39,7 @@ ul li a {
   display: flex;
   justify-content: space-between;
   gap: 60px;
-  margin-top: 40px;
+  margin-top: 20px;
   font-size: 16px;
   flex-direction: row;
 }
@@ -47,6 +47,11 @@ ul li a {
 hr {
   width: 70%;
   margin-top: 40px;
+}
+
+.profile {
+  text-align: justify;
+  line-height: 30px;
 }
 
 .profile-h1 {
