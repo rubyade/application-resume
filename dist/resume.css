@@ -47,6 +47,7 @@ ul li a {
 hr {
   width: 70%;
   margin-top: 40px;
+  border: solid 0.5px rgb(8, 165, 238);
 }
 
 .profile {
